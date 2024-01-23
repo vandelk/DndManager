@@ -1,0 +1,12 @@
+body {
+    /* background-image: url("../img/background.jpg");
+    background-size: cover; */
+    background-color: black;
+}
+
+.pfp {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
